@@ -21,6 +21,11 @@ To change the bot to accustom to your needs, you may edit the intents.json file 
 * json
 * random
 
+# How does it work?
+
+The program uses lemmatisation and groups the words you speak to it into groups and then compares those words with its training data and answers back with the class where those words appear the most.
+For example, the word "what" appears most often in the class "Prodcut information" as when referring to an object people are more likely to use the word "What".
+
 # Preview
 ![img](https://github.com/ali207715/AI-Chat-bot/blob/main/1.PNG?raw=true)
 
