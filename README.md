@@ -22,5 +22,5 @@ To change the bot to accustom to your needs, you may edit the intents.json file 
 * random
 
 # Preview
-![img](https://i.imgur.com/2JWlv7M.png)
+![img](https://github.com/ali207715/AI-Chat-bot/blob/main/1.PNG?raw=true)
 
